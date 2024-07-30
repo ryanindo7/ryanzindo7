@@ -2,7 +2,7 @@
 
 Meu nome é Ryan
 
-Estou estudando no Alura
+Estou estudando no [Alura] (https://www.alura.com.br)
 
 Estou me desenvolvendo na linguagem no JavaScript
 
